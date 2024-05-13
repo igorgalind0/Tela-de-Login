@@ -1,0 +1,6 @@
+main{
+    height: 100vh; /*Tamanho do Main*/
+    display: flex; /*Alterar o display para flex*/
+    justify-content: center; /*Alinhar no centro*/
+    align-items: center; /*Alinhar no centro*/
+}
